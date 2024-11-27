@@ -1,0 +1,30 @@
+body{
+    font-family: 'Cairo', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #c6c6df;
+    color: #474040;
+    text-align: right;
+}
+header {
+    background-color: #7b89a5;
+    padding: 1rem;
+    text-align: center;
+}
+article{
+    border: color rgb(65, 32, 32); ;
+    padding: 2rem;
+    background-color: #c1c9e0;
+}
+footer{
+    background-color: rgb(231, 237, 241);
+    text-align: center;
+    padding: 1.5rem;
+}
+h3{
+    color: #230b36;
+}
+h1{
+    color: #6d3e79;
+}
